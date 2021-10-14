@@ -1,1 +1,2 @@
-*.gs linguist-language=Dart
+lib/* linguist-documentation=false
+lib/* linguist-vendored
