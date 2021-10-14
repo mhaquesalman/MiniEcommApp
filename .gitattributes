@@ -1,2 +1,2 @@
-lib/* linguist-documentation=false
+ *.* linguist-language=Dart
 
